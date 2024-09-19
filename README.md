@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seungg8361
+- 👋 Hi, I’m seunggyu
 <!---
 seungg8361/seungg8361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

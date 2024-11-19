@@ -45,8 +45,8 @@
     <div align= "center">
          <a href="https://www.instagram.com/99_back/"> 
          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="https://www.instagram.com/99_back/"> </a>
-         <a href="https://www.notion.so/c87f563f3a224dcbb919844c7a0f76dc">
-         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="https://www.notion.so/c87f563f3a224dcbb919844c7a0f76dc"> </a>
+         <a href="https://long-quasar-bd8.notion.site/13f6fa3bc77580678521d6f3a2c7b6ea">
+         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="https://long-quasar-bd8.notion.site/13f6fa3bc77580678521d6f3a2c7b6ea"> </a>
          <a href=mailto:seungg8361@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seungg8361@gmail.com"> </a>
     </div>
     </div>

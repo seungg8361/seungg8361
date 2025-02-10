@@ -1,5 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4bb952,100:6cea9c&height=120&text=안녕하세요%20승규%20입니다.&animation=fadeIn&fontColor=000000&fontSize=40" />
     <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{SeunGgyu}?pet-id=1" width="1000" height="155"/>
 </a><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungg8361&utm_content=farm">

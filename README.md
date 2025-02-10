@@ -4,7 +4,8 @@
   <img src="https://render.gitanimals.org/lines/{SeunGgyu}?pet-id=1" width="1000" height="155"/>
 <!-- </a>
     <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{SeunGgyu}"/>
+  <img src="https://render.gitanimals.org/farms/{SeungGyu}"/>
+</a>
 </a> -->
     </div>
     <div style="text-align: left;"> 

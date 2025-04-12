@@ -1,4 +1,10 @@
 <div align= "center">
+    
+![d364907ba8ee4e1c](https://github.com/user-attachments/assets/f31752e9-6249-4979-ac41-89d0deeaa20f)
+
+</div>
+
+<div align= "center">
     <a href="https://github.com/devxb/gitanimals"><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seungg8361&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seungg8361"

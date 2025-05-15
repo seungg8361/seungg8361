@@ -50,8 +50,7 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> <!-- 주로 사용하시는 IDE를 추가하시면 좋아요 -->
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
@@ -69,20 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungg8361&layout=compact&theme=tokyonight&cache_seconds=3600" height="170" alt="백승규님의 Top Languages"/>
   <img src="https://streak-stats.demolab.com?user=seungg8361&theme=tokyonight&hide_border=true" height="170" alt="백승규님의 Streak Stats"/>
 </div>
-
----
-
-## 🌱 Projects (진행 중이거나 완료된 프로젝트)
-
-제가 경험하고 학습한 내용을 담은 프로젝트들입니다.
-
-*   **[프로젝트 이름 1]** (진행 상태) - 프로젝트 설명. 어떤 기술을 사용했고, 무엇을 배웠는지 간략하게 적어보세요! [[2]](https://www.makeareadme.com/)
-    *   🔗 [Repository Link](링크)
-    *   ✨ Key Features: (주요 기능 목록)
-    *   🛠️ Technologies Used: Java, Spring Boot, MySQL 등
-*   **[프로젝트 이름 2]** (진행 상태) - 프로젝트 설명.
-    *   🔗 [Repository Link](링크)
-    *   ...
 
 ---
 

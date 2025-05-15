@@ -75,6 +75,16 @@
 
 ---
 
+## 🧠 Algorithm Solving
+
+<div align="center">
+  <a href="https://solved.ac/seungg8361">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungg8361" alt="백준 solved.ac 프로필 뱃지"/>
+  </a>
+</div>
+
+---
+
 ## 🤝 Connect with Me
 
 <div align="center">

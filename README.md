@@ -68,18 +68,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seungg8361&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungg8361&layout=compact&theme=tokyonight" height="170"/>
-</div>
-
----
-
-## ⌛ WakaTime Coding Stats
-
-> **주의**: 아래는 예시이며, 실제 데이터 출력을 위해서는 [WakaTime 계정 연동](https://wakatime.com/)이 필요합니다.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=seungg8361&theme=tokyonight&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seungg8361&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungg8361&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" height="180"/>
 </div>
 
 ---
